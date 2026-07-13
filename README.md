@@ -4,7 +4,7 @@ A fine-grained correspondence learning framework for open-vocabulary 6D object p
 
 <p align="center">
 <a href="https://arxiv.org/abs/2601.13565"><img src="https://img.shields.io/badge/arXiv-2601.13565-red?style=for-the-badge&logo=arxiv" alt="Technical Report"></a>
-<a href="https://huggingface.co/zjjqinyu/FiCoP"><img src="https://img.shields.io/badge/HuggingFace-Model%20%26%20Data-orange?style=for-the-badge&logo=huggingface" alt="Model & Data on Hugging Face"></a>
+<a href="https://huggingface.co/zjjqinyu/FiCoP/tree/main"><img src="https://img.shields.io/badge/HuggingFace-Model%20%26%20Data-orange?style=for-the-badge&logo=huggingface" alt="Model & Data on Hugging Face"></a>
 </p>
 
 
