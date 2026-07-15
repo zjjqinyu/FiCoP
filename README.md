@@ -86,6 +86,8 @@ If our work is useful for your research, please consider citing:
   journal={IEEE Robotics and Automation Letters}, 
   title={Learning Fine-Grained Correspondence With Cross-Perspective Perception for Open-Vocabulary 6D Object Pose Estimation}, 
   year={2026},
+  volume={11},
+  number={9},
+  pages={10090-10097},
   doi={10.1109/LRA.2026.3711484}}
-
 ```
